@@ -132,4 +132,4 @@ Open [http://localhost:3000](http://localhost:3000) to view the site.
 
 ---
 
-Built by **Ethan Zhou** · 2025
+Built by Ethan Zhou, Brandon He, Kate Chen, William Wang · 2026
